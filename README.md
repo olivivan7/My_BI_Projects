@@ -1,6 +1,7 @@
 # my_projects
-**Hello world,**
-git commit -m Here are the most relevant projects that I´ve done so far.
--m Some of them are related to **Business Intelligence and Data Science**.
--m Others are related to **Data Engineering**.
--m Welcome to my portfolio.
+**Hello world,**<br/>
+here are the most relevant projects that I´ve done so far.
+Some of them are related to **Business Intelligence and Data Science**.
+Others are related to **Data Engineering**.
+
+**Welcome to my portfolio.**
