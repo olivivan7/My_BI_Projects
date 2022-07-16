@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <h1>My Curriculum Vitae</h1>
+    <h1 align="center">My Curriculum Vitae</h1>
 </head>
             
 <body>
