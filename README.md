@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     <h1>My Curriculum Vitae</h1>
 </head>
             
@@ -40,12 +39,10 @@ Some of the tools that I used:
 <ul>Git Bash</ul>
 <ul>VM Ware [Ubuntu]</ul>
 <ul>AWS Cloud Ecosystem</ul>
-
-            <i class="devicon-adonisjs-original"></i>
-          <ul>AZURE Cloud Ecosystem</ul>
+<ul>AZURE Cloud Ecosystem</ul>
 <br/>
 <li>Programming Languages:</li>
-<ul>Python</ul>
+![python](https://user-images.githubusercontent.com/67763471/179361316-91e030d7-4a04-4557-aad2-7aba4ad86188.png)<ul>Python</ul>
 <ul>PySpark</ul>
 <ul>Java</ul>
 <ul>C++</ul>
