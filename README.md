@@ -19,45 +19,27 @@ Others are related to **Software Engineering**.<br/>
 
 Some of the tools that I used:
 <ol>
-    <li>IDE´s:</li>
-        <ul>Visual Studio</ul>
-        <ul>Visual Studio Code</ul>
-        <ul>PyCharm</ul>
-        <ul>Eclipse</ul>
-        <ul>RStudio</ul>
+    <li>IDE´s:</li>                                         <li>API´s:</li>                                     <li>Programming Languages:</li>
+        <ul>Visual Studio</ul>                                  <ul>MongoDBCompass</ul>                             <ul>Python</ul>
+        <ul>Visual Studio Code</ul>                             <ul>PostgreSQL</ul>                                 <ul>PySpark</ul>
+        <ul>PyCharm</ul>                                        <ul>MySQL Workbench</ul>                            <ul>Java</ul>
+        <ul>Eclipse</ul>                                        <ul>MS SQL Server Mngt Studio</ul>                  <ul>C++</ul>
+        <ul>RStudio</ul>                                        <ul>Trello</ul>                                     <ul>SQL</ul>
+                                                                <ul>Team Gantt Charts</ul>                          <ul>NoSQL</ul>  
+                                                                <ul>Lucid Chart</ul>                                <ul>JSON</ul>
+                                                                <ul>Rapid Miner</ul>                                <ul>Bash</ul>
+                                                                <ul>PowerBI</ul>                                    <ul>R</ul>
+                                                                <ul>MS Excel</ul>
+                                                                <ul>MS Word</ul>
+                                                                <ul>MS Power Point</ul>
+                                                                <ul>Git Bash</ul>
+                                                                <ul>VM Ware [Ubuntu]</ul>
+                                                                <ul>AWS Cloud Ecosystem</ul>
+                                                                <ul>AZURE Cloud Ecosystem</ul>    
 <br/>
-    <li>API´s:</li>
-        <ul>MongoDBCompass</ul>
-        <ul>PostgreSQL</ul>
-        <ul>MySQL Workbench</ul>
-        <ul>MS SQL Server Mngt Studio</ul>
-        <ul>Trello</ul>
-        <ul>Team Gantt Charts</ul>
-        <ul>Lucid Chart</ul>
-        <ul>Rapid Miner</ul>
-        <ul>PowerBI</ul>  
-        <ul>MS Excel</ul>
-        <ul>MS Word</ul>
-        <ul>MS Power Point</ul>
-        <ul>Git Bash</ul>
-        <ul>VM Ware [Ubuntu]</ul>
-        <ul>AWS Cloud Ecosystem</ul>
-        <ul>AZURE Cloud Ecosystem</ul>
-<br/>
-    <li>Programming Languages:</li>
-        <ul>Python</ul>
-        <ul>PySpark</ul>
-        <ul>Java</ul>
-        <ul>C++</ul>
-        <ul>SQL</ul>
-        <ul>NoSQL</ul>
-        <ul>JSON</ul>
-        <ul>Bash</ul>
-        <ul>R</ul>
-<br/>
-    <li>Hadoop Ecosystem:</li>
-        <ul>Apache MapReduce</ul>
-        <ul>Apache Yarn</ul>
+    <li>Hadoop Ecosystem:</li>                              <li>Operating Systems:</li>
+        <ul>Apache MapReduce</ul>                               <ul>Windows</ul>
+        <ul>Apache Yarn</ul>                                    <ul>Ubuntu [Linux]</ul>
         <ul>Apache Spark</ul>
         <ul>Apache Hive</ul>
         <ul>Apache HBase</ul>
@@ -66,10 +48,8 @@ Some of the tools that I used:
         <ul>Apache Zookeeper</ul>
         <ul>Apache Ambari</ul>
         <ul>(...)</ul>
-<br/>
-    <li>Operating Systems:</li>
-        <ul>Windows</ul>
-        <ul>Ubuntu [Linux]</ul>
+    
+              
 </ol>
 
 <br/>
