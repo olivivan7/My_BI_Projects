@@ -1,5 +1,15 @@
-<h1 aling="center"></h1>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    <title>Document</title>
+</head>
+            
+<body>
+    
 **Hello World,**
 
 My name is Ivan and this is my GitHub profile.
@@ -32,7 +42,9 @@ Some of the tools that I used:
 <ul>Git Bash</ul>
 <ul>VM Ware [Ubuntu]</ul>
 <ul>AWS Cloud Ecosystem</ul>
-<ul>AZURE Cloud Ecosystem</ul>
+
+            <i class="devicon-azure-plain colored"></i>
+          <ul>AZURE Cloud Ecosystem</ul>
 <br/>
 <li>Programming Languages:</li>
 <ul>Python</ul>
@@ -61,9 +73,13 @@ Some of the tools that I used:
 <ul>Windows</ul>
 <ul>Ubuntu [Linux]</ul>
 </ol>
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+          
           
 
 ***Welcome to my portfolio.***
+            
+</body>
+</html>
+        
+        
+
