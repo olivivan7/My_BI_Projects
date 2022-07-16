@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>My Curriculum Vitae</title>
+    <h1>My Curriculum Vitae</h1>
 </head>
             
 <body>
-    
+
 **Hello World,**
 
 My name is Ivan and this is my GitHub profile.
