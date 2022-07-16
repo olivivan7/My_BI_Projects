@@ -72,7 +72,9 @@ Some of the tools that I used:
     
     
 <br/>
+    
 ***Contacts:***
+    
 <br/>
 <div>
     <a href = "mailto:contato@olivivan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
