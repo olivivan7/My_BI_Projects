@@ -5,12 +5,12 @@ Most part are related to **Business Intelligence and Data Science**.<br/>
 Others are related to **Data Engineering**.<br/>
 Some of the tools:
 <ol>
-<ul>Python</ul>
-<ul>VS Code</ul>
-<ul>RStudio</ul>
-<ul>RapidMiner</ul>
-<ul>PostgreSQL</ul>
-<ul>PowerBI</ul>
+Python
+VS Code
+RStudio
+RapidMiner
+PostgreSQL
+PowerBI
 </ol>
 
 **Welcome to my portfolio.**
