@@ -72,9 +72,12 @@ Some of the tools that I used:
           
 
 ***Welcome to my portfolio.***
-            
+    
+    ![python](https://user-images.githubusercontent.com/67763471/179360436-565ebe2c-1f73-44bf-b961-a6436b6e30df.png)
+    
+    
 </body>
 </html>
         
-        ![python](https://user-images.githubusercontent.com/67763471/179360436-565ebe2c-1f73-44bf-b961-a6436b6e30df.png)
+        
 
