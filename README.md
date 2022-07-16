@@ -32,10 +32,9 @@ Some of the tools that I used:
 <ul>Git Bash</ul>
 <ul>VM Ware [Ubuntu]</ul>
 <ul>AWS Cloud Ecosystem</ul>
-  
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          </i><ul>AZURE Cloud Ecosystem</ul>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+          <ul>AZURE Cloud Ecosystem</ul>
 <br/>
 <li>Programming Languages:</li>
 <ul>Python</ul>
