@@ -14,7 +14,7 @@ Here are the most relevant projects that I´ve done so far.<br/>
 Most part are related to **Business Intelligence, Data Science and Data Engineering**.<br/>
 Others are related to **Software Engineering**.<br/>
 
-<img src="https://img.shields.io/badge/Bachelor-Production%20Engineer-orange" /> <img src="https://img.shields.io/badge/Master-Business%20Intelligence-yellow" />
+<img src="https://img.shields.io/badge/Bachelor-Production%20Engineer-orange" /> <img src="https://img.shields.io/badge/Master-Business%20Intelligence-yellow" /> <img src="https://img.shields.io/badge/Master-Data%20Engineering-yellow" />
 
 Some of the tools that I used:
 <ol>
