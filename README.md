@@ -1,4 +1,4 @@
-<h1 aling="center">My Curriculum</h1>
+<h1 aling="center"></h1>
 
 **Hello World,**<br/>
 Here are the most relevant projects that I´ve done so far.<br/>
