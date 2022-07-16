@@ -51,10 +51,10 @@ Some of the tools that I used:
 <ul>Apache Spark</ul>
 <ul>Apache Hive</ul>
 <ul>Apache HBase</ul>
-<ul>Apache Zookeeper</ul>
-<ul>Apache Ambari</ul>
 <ul>Apache Flume</ul>
 <ul>Apache Kafka</ul>
+<ul>Apache Zookeeper</ul>
+<ul>Apache Ambari</ul>
 <ul>(...)</ul>
 <br/>
 <li>Operating Systems:</li>
