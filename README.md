@@ -1,8 +1,8 @@
 <h1 aling="center"></h1>
 
-**Hello World,**<br/>
-My name is Ivan and this is my GitHub profile.
+**Hello World,**
 
+My name is Ivan and this is my GitHub profile.
 Here are the most relevant projects that I´ve done so far.<br/>
 Most part are related to **Business Intelligence, Data Science and Data Engineering**.<br/>
 Others are related to **Software Engineering**.<br/>
@@ -15,7 +15,7 @@ Some of the tools that I used:
 <ul>PyCharm</ul>
 <ul>Eclipse</ul>
 <ul>RStudio</ul>
-<br/> 
+
 <li>API´s:</li>
 <ul>MongoDBCompass</ul>
 <ul>PostgreSQL</ul>
@@ -33,7 +33,7 @@ Some of the tools that I used:
 <ul>VM Ware [Ubuntu]</ul>
 <ul>AWS Cloud Ecosystem</ul>
 <ul>AZURE Cloud Ecosystem</ul>
-</br>
+
 <li>Programming Languages:</li>
 <ul>Python</ul>
 <ul>PySpark</ul>
@@ -44,7 +44,7 @@ Some of the tools that I used:
 <ul>JSON</ul>
 <ul>Bash</ul>
 <ul>R</ul>
-<br/>
+
 <li>Hadoop Ecosystem:</li>
 <ul>Apache MapReduce</ul>
 <ul>Apache Yarn</ul>
@@ -56,7 +56,7 @@ Some of the tools that I used:
 <ul>Apache Zookeeper</ul>
 <ul>Apache Ambari</ul>
 <ul>(...)</ul>
-<br/>
+
 <li>Operating Systems:</li>
 <ul>Windows</ul>
 <ul>Ubuntu [Linux]</ul>
