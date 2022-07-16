@@ -7,11 +7,11 @@
             
 <body>
 
-*Hello World!*
+***Hello World!***
 
 My name is Ivan and this is my GitHub profile.<br/>
 Here are the most relevant projects that I´ve done so far.<br/>
-Most part are related to **Business Intelligence, Data Science and Data Engineering**.<br/>
+Most part are related to **Business Intelligence, Data Science, Machine Learning and Data Engineering**.<br/>
 Others are related to **Software Engineering**.<br/>
 
 <img src="https://img.shields.io/badge/Bachelor-Production%20Engineering-blue" /> <img src="https://img.shields.io/badge/Master-Business%20Intelligence-yellow" /> <img src="https://img.shields.io/badge/Master-Data%20Engineering%20at%20IGTI-yellow" />
