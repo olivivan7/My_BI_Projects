@@ -7,7 +7,7 @@
             
 <body>
 
-**Hello World,**
+*Hello World!*
 
 My name is Ivan and this is my GitHub profile.<br/>
 Here are the most relevant projects that I´ve done so far.<br/>
