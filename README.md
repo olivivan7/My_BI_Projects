@@ -43,7 +43,7 @@ Some of the tools that I used:
 <ul>VM Ware [Ubuntu]</ul>
 <ul>AWS Cloud Ecosystem</ul>
 
-            <i class="devicon-azure-plain colored"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
           <ul>AZURE Cloud Ecosystem</ul>
 <br/>
 <li>Programming Languages:</li>
