@@ -32,6 +32,7 @@ Some of the tools that I used:
 <ul>Git Bash</ul>
 <ul>VM Ware [Ubuntu]</ul>
 <ul>AWS Cloud Ecosystem</ul>
+  
 <i class="devicon-azure-plain colored"></i><ul>AZURE Cloud Ecosystem</ul>
 <br/>
 <li>Programming Languages:</li>
