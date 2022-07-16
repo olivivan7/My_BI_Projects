@@ -73,7 +73,7 @@ Some of the tools that I used:
 
 ***Welcome to my portfolio.***
     
-    ![python](https://user-images.githubusercontent.com/67763471/179360436-565ebe2c-1f73-44bf-b961-a6436b6e30df.png)
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
     
     
 </body>
