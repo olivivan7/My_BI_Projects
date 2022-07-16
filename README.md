@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-    <title>Document</title>
+    <title>My Curriculum Vitae</title>
 </head>
             
 <body>
@@ -42,9 +42,7 @@ Some of the tools that I used:
 <ul>Git Bash</ul>
 <ul>VM Ware [Ubuntu]</ul>
 <ul>AWS Cloud Ecosystem</ul>
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-          <ul>AZURE Cloud Ecosystem</ul>
+<ul>AZURE Cloud Ecosystem</ul>
 <br/>
 <li>Programming Languages:</li>
 <ul>Python</ul>
