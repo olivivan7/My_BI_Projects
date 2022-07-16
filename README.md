@@ -70,6 +70,7 @@ Some of the tools that I used:
 </ol>
     
     
+***Welcome to my portfolio.***
     
 <br/>
     
@@ -81,9 +82,6 @@ Some of the tools that I used:
     <a href="https://instagram.com/ivanmdeoliveira7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>      
 </div>
 <br/>          
-          
-***Welcome to my portfolio.***
-    
     
 </body>
 </html>
