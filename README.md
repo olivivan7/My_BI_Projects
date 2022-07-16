@@ -19,13 +19,19 @@ Others are related to **Software Engineering**.<br/>
 
 Some of the tools that I used:
 <ol>
-    <li>IDE´s:</li>                                         <li>API´s:</li>                                     <li>Programming Languages:</li>
-        <ul>Visual Studio</ul>                                  <ul>MongoDBCompass</ul>                             <ul>Python</ul>
-        <ul>Visual Studio Code</ul>                             <ul>PostgreSQL</ul>                                 <ul>PySpark</ul>
-        <ul>PyCharm</ul>                                        <ul>MySQL Workbench</ul>                            <ul>Java</ul>
-        <ul>Eclipse</ul>                                        <ul>MS SQL Server Mngt Studio</ul>                  <ul>C++</ul>
-        <ul>RStudio</ul>                                        <ul>Trello</ul>                                     <ul>SQL</ul>
-                                                                <ul>Team Gantt Charts</ul>                          <ul>NoSQL</ul>  
+    <li>IDE´s:<ul>Visual Studio</ul> <ul>Visual Studio Code</ul><ul>PyCharm</ul><ul>Eclipse</ul><ul>RStudio</ul></li>
+    
+    
+    
+    
+    
+    <li>API´s:</li>                                     <li>Programming Languages:</li>
+                                          <ul>MongoDBCompass</ul>                             <ul>Python</ul>
+                                    <ul>PostgreSQL</ul>                                 <ul>PySpark</ul>
+                                                <ul>MySQL Workbench</ul>                            <ul>Java</ul>
+                                               <ul>MS SQL Server Mngt Studio</ul>                  <ul>C++</ul>
+                                                <ul>Trello</ul>                                     <ul>SQL</ul>
+                                                           <ul>Team Gantt Charts</ul>                          <ul>NoSQL</ul>  
                                                                 <ul>Lucid Chart</ul>                                <ul>JSON</ul>
                                                                 <ul>Rapid Miner</ul>                                <ul>Bash</ul>
                                                                 <ul>PowerBI</ul>                                    <ul>R</ul>
