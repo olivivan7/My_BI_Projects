@@ -21,18 +21,18 @@ Some of the tools that I used:
 <ul>PostgreSQL</ul>
 <ul>MySQL Workbench</ul>
 <ul>MS SQL Server Mngt Studio</ul>
-<ul>Git Bash</ul>
-<ul>Rapid Miner</ul>
 <ul>Trello</ul>
 <ul>Team Gantt Charts</ul>
 <ul>Lucid Chart</ul>
+<ul>Rapid Miner</ul>
 <ul>PowerBI</ul>  
-<ul>AWS Cloud Ecosystem</ul>
-<ul>Azure Cloud Ecosystem</ul>
 <ul>MS Excel</ul>
 <ul>MS Word</ul>
 <ul>MS Power Point</ul>
+<ul>Git Bash</ul>
 <ul>VM Ware [Ubuntu]</ul>
+<ul>AWS Cloud Ecosystem</ul>
+<ul>AZURE Cloud Ecosystem</ul>
 </br>
 <li>Programming Languages:</li>
 <ul>Python</ul>
@@ -55,10 +55,11 @@ Some of the tools that I used:
 <ul>Apache Ambari</ul>
 <ul>Apache Flume</ul>
 <ul>Apache Kafka</ul>
+<ul>(...)</ul>
 <br/>
 <li>Operating Systems:</li>
 <ul>Windows</ul>
 <ul>Ubuntu [Linux]</ul>
 </ol>
 
-**Welcome to my portfolio.**
+***Welcome to my portfolio.***
