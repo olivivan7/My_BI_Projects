@@ -22,7 +22,7 @@ Some of the tools that I used:
 <ul>MS SQL Server Mngt Studio</ul>
 <ul>AWS</ul>
 <ul>Azure</ul>
-
+</br>
 <li>Programming Languages:</li>
 <ul>Python</ul>
 <ul>PySpark</ul>
@@ -33,7 +33,7 @@ Some of the tools that I used:
 <ul>JSON</ul>
 <ul>Bash</ul>
 <ul>R</ul>
-
+<br/>
 <li>Hadoop Ecosystem:</li>
 <ul>Apache MapReduce</ul>
 <ul>Apache Yarn</ul>
