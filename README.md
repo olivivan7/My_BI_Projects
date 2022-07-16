@@ -1,4 +1,4 @@
-# My Curriculum
+<h1 aling=center>My Curriculum</h1>
 **Hello World,**<br/>
 Here are the most relevant projects that I´ve done so far.<br/>
 Most part are related to **Business Intelligence and Data Science**.<br/>
