@@ -19,33 +19,21 @@ Others are related to **Software Engineering**.<br/>
 
 Some of the tools that I used:
 <ol>
-    <li>IDE´s:<ul>Visual Studio</ul> <ul>Visual Studio Code</ul><ul>PyCharm</ul><ul>Eclipse</ul><ul>RStudio</ul></li>
-    
-    
-    
-    
-    
-    <li>API´s:</li>                                     <li>Programming Languages:</li>
-                                          <ul>MongoDBCompass</ul>                             <ul>Python</ul>
-                                    <ul>PostgreSQL</ul>                                 <ul>PySpark</ul>
-                                                <ul>MySQL Workbench</ul>                            <ul>Java</ul>
-                                               <ul>MS SQL Server Mngt Studio</ul>                  <ul>C++</ul>
-                                                <ul>Trello</ul>                                     <ul>SQL</ul>
-                                                           <ul>Team Gantt Charts</ul>                          <ul>NoSQL</ul>  
-                                                                <ul>Lucid Chart</ul>                                <ul>JSON</ul>
-                                                                <ul>Rapid Miner</ul>                                <ul>Bash</ul>
-                                                                <ul>PowerBI</ul>                                    <ul>R</ul>
-                                                                <ul>MS Excel</ul>
-                                                                <ul>MS Word</ul>
-                                                                <ul>MS Power Point</ul>
-                                                                <ul>Git Bash</ul>
-                                                                <ul>VM Ware [Ubuntu]</ul>
-                                                                <ul>AWS Cloud Ecosystem</ul>
-                                                                <ul>AZURE Cloud Ecosystem</ul>    
+    <li>IDE´s:
+        <ul>Visual Studio</ul><ul>Visual Studio Code</ul><ul>PyCharm</ul><ul>Eclipse</ul><ul>RStudio</ul>
+    </li>
 <br/>
-    <li>Hadoop Ecosystem:</li>                              <li>Operating Systems:</li>
-        <ul>Apache MapReduce</ul>                               <ul>Windows</ul>
-        <ul>Apache Yarn</ul>                                    <ul>Ubuntu [Linux]</ul>
+    <li>API´s:
+        <ul>MongoDBCompass</ul><ul>PostgreSQL</ul><ul>MySQL Workbench</ul><ul>MS SQL Server Mngt Studio</ul><ul>Trello</ul><ul>Team Gantt Charts</ul><ul>Lucid Chart</ul><ul>Rapid Miner</ul><ul>PowerBI</ul><ul>MS Excel</ul><ul>MS Word</ul><ul>MS Power Point</ul> <ul>Git Bash</ul><ul>VM Ware [Ubuntu]</ul><ul>AWS Cloud Ecosystem</ul><ul>AZURE Cloud Ecosystem</ul>
+    </li>                                                                                      
+<br/>    
+    <li>Programming Languages:
+        <ul>Python</ul><ul>PySpark</ul><ul>Java</ul><ul>C/C++</ul><ul>SQL</ul><ul>NoSQL</ul><ul>JSON</ul><ul>Bash</ul><ul>R</ul>
+    </li>                                                                                                                              
+<br/>
+    <li>Hadoop Ecosystem:</li>                              
+        <ul>Apache MapReduce</ul>                               
+        <ul>Apache Yarn</ul>                                    
         <ul>Apache Spark</ul>
         <ul>Apache Hive</ul>
         <ul>Apache HBase</ul>
@@ -54,31 +42,29 @@ Some of the tools that I used:
         <ul>Apache Zookeeper</ul>
         <ul>Apache Ambari</ul>
         <ul>(...)</ul>
-    
+<br/>
+   <li>Operating Systems:
+       <ul>Windows</ul>
+       <ul>Ubuntu [Linux]</ul>
+   </li> 
               
 </ol>
-
 <br/>
 <div>
     <a href="https://github.com/olivivan7">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivivan7&layout=compact&langs_count=7&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olivivan7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<br/>   
+<br/>    
     
+***Welcome to my portfolio.***  
     
-***Welcome to my portfolio.***
-    
-    
-***Contacts:***
-    
-<div>
-    <a href = "mailto:contato@olivivan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/ivanmdeoliveira7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/ivanmdeoliveira7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>      
-</div>
-<br/>          
-    
+***Contacts:***   
+    <div>
+        <a href = "mailto:contato@olivivan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/ivanmdeoliveira7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        <a href="https://instagram.com/ivanmdeoliveira7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>      
+    </div>   
 </body>
 </html>
         
