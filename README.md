@@ -80,7 +80,6 @@ Some of the tools that I used:
     
 ***Welcome to my portfolio.***
     
-<br/>
     
 ***Contacts:***
     
