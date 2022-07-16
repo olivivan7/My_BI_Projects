@@ -1,8 +1,8 @@
 name: Generate Snake on Contributions
 
 on:
-  schedule: # execute every quarter of hour
-    - cron: "* */0.25 * * *"
+  schedule: # execute every minute
+    - cron: "* */0.017 * * *"
   workflow_dispatch:
 
 jobs:
