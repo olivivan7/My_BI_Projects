@@ -33,7 +33,9 @@ Some of the tools that I used:
 <ul>VM Ware [Ubuntu]</ul>
 <ul>AWS Cloud Ecosystem</ul>
   
-<i class="devicon-azure-plain colored"></i><ul>AZURE Cloud Ecosystem</ul>
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          </i><ul>AZURE Cloud Ecosystem</ul>
 <br/>
 <li>Programming Languages:</li>
 <ul>Python</ul>
