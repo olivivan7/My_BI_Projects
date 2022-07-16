@@ -42,7 +42,7 @@ Some of the tools that I used:
 <ul>AZURE Cloud Ecosystem</ul>
 <br/>
 <li>Programming Languages:</li>
-<ul>Python</ul>
+![python](https://user-images.githubusercontent.com/67763471/179360436-565ebe2c-1f73-44bf-b961-a6436b6e30df.png)<ul>Python</ul>
 <ul>PySpark</ul>
 <ul>Java</ul>
 <ul>C++</ul>
