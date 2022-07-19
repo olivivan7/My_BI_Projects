@@ -17,10 +17,7 @@ Others are related to **Software Engineering**.<br/>
 <img src="https://img.shields.io/badge/Bachelor-Production%20Engineering-blue" /> <img src="https://img.shields.io/badge/Master-Business%20Intelligence-yellow" /> <img src="https://img.shields.io/badge/Master-Data%20Engineering%20at%20IGTI-yellow" />
 <img src="https://img.shields.io/badge/Master-Data%20Engineering%20at%20Purdue%20University-yellow" />
 
-
-![Skills](https://user-images.githubusercontent.com/67763471/179778541-2e5385d4-f7cf-4008-b633-8cd2aabb2431.png)
-
-    
+![Skills](https://user-images.githubusercontent.com/67763471/179779107-25f0930e-70ff-482c-89c1-f1dc74d66809.png)
     
 Some of the tools that I used:
 <ol>
