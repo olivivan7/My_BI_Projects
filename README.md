@@ -10,6 +10,7 @@
 ***Hello World!***
 
 My name is Ivan and this is my GitHub profile.<br/>
+I´m a Business Intelligence and Data Engineer seeking to leverage 3+ years of experience.
 Here are the most relevant projects that I´ve done so far.<br/>
 Most part are related to **Business Intelligence, Data Science, Machine Learning and Data Engineering**.<br/>
 Others are related to **Software Engineering**.<br/>
@@ -19,7 +20,7 @@ Others are related to **Software Engineering**.<br/>
 
 ![Skills](https://user-images.githubusercontent.com/67763471/179779107-25f0930e-70ff-482c-89c1-f1dc74d66809.png)
     
-Some of the tools that I used:
+Some of the tools that I´ve used so far:
 <ol>
     <li>IDE´s:
         <ul>Visual Studio</ul><ul>Visual Studio Code</ul><ul>PyCharm</ul><ul>Eclipse</ul><ul>RStudio</ul>
